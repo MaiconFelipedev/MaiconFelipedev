@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Maicon Felipe
 
-- 🔭 Atualmente estou desempregado
+- 🔭 Cursando 4º período do Curso Superior em Sistemas para Internet - IFPB Campus João Pessoa
 - 🌱 Estudando JavaScript
 - 😄 Pronomes: Ele/Dele
 
