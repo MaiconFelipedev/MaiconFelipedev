@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou desempregado
 - 🌱 Estudando JavaScript
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <!-- Linguagens de Programação -->
 <div style="display: inline_block"><br>
