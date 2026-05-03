@@ -41,7 +41,7 @@
 ### Contato
 
 <div>
-  <a href="mailto:souzafelipemaicon@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=souzafelipemaicon@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
   <a href="https://www.linkedin.com/in/maicon-felipe-a35481281/" target="_blank">
