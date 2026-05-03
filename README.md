@@ -30,11 +30,19 @@
 
 ---
 
-### Projetos e interesses
+### Projetos
 
-- **Smart Access:** aplicação acadêmica de controle de acesso desenvolvida com foco em front-end utilizando JavaScript e React.
-- **Sistema Web Acadêmico:** aplicação com CRUD, ORM, paginação, comandos customizados e geração de dados fictícios.
-- Interesse em desenvolvimento web, APIs REST, banco de dados e soluções com inteligência artificial.
+**Smart Access**  
+Aplicação acadêmica desenvolvida para auxiliar na gestão de controle de acesso a ambientes do IFPB. Atuei no front-end utilizando **JavaScript e React**, desenvolvendo telas para módulos de autenticação, segurança e acesso. Também participei da criação de formulários interativos, filtros e tabelas dinâmicas para visualização e gerenciamento de dados.
+
+**Sistema Web Acadêmico com Django**  
+Aplicação web desenvolvida com **Python e Django**, com foco em organização e manipulação de dados. Implementei funcionalidades como CRUD completo, modelagem de dados, uso do ORM do Django, paginação, comandos customizados e geração de dados fictícios com a biblioteca Faker.
+
+---
+
+### Interesses
+
+Tenho interesse em desenvolvimento web, criação de APIs REST, banco de dados, automação de processos e uso de inteligência artificial como apoio à produtividade e construção de soluções tecnológicas.
 
 ---
 
